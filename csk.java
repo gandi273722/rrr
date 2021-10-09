@@ -2,5 +2,5 @@ ten
 nine
 eight
 seven
-a=2000;
+a=400;
 b=25
